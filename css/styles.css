@@ -1,0 +1,70 @@
+/*
+font-family: 'Athiti', sans-serif;
+font-family: 'Special Elite', cursive;
+*/
+body {
+    background-color:#00ff40; 
+  }
+  .mainBox {
+    width:80%;
+    height:auto;
+    color:#00ff40;
+    background-color:white;
+    margin: 5% auto auto auto;
+    padding: 30px 40px;
+    border-radius:4px;
+  }
+  .quote {
+    font-family:'Special Elite', cursive;
+    font-size: 30px;
+    text-align: center;
+    
+  }
+  .quoteleft {
+    margin-right: 15px;
+  }
+  .quoteright {
+    margin-left: 15px;
+  }
+  .author {
+    font-family:'Athiti', sans-serif;
+    text-align: right;
+    font-size: 20px;
+  }
+  .buttons {
+    margin:30px auto auto auto;
+    padding-bottom: 30px;
+  }
+  .tbutton {
+    color:white;
+    background-color:#00ff40;
+    border:none;
+    border-radius:3px;
+    height:40px;
+    width:40px;
+    padding:3px 8px;
+    font-size:25px;
+    float:left;
+  }
+  .qbutton {
+    float:right;
+    color:white;
+    background-color:#00ff40;
+    border:none;
+    border-radius:3px;
+    height:40px;
+    font-size:18px;
+    font-family: sans-serif;
+    padding:3px 15px;
+    text-align:center;
+  }
+  .me {
+    text-align:center;
+    font-family:sans-serif;
+    color:white;
+    margin-top: 20px;
+    margin-bottom:10px;
+  }
+  .melink {
+    color:white;
+  }
